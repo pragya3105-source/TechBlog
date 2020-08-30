@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54524d49-6551-4ba5-862e-aede5c7b7c5d" name="Default Changelist" comment="" />
+    <list default="true" id="54524d49-6551-4ba5-862e-aede5c7b7c5d" name="Default Changelist" comment="added a server onn port 8000" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +35,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598788063161</updated>
-      <workItem from="1598788064237" duration="1729000" />
+      <workItem from="1598788064237" duration="1975000" />
     </task>
+    <task id="LOCAL-00001" summary="added a server onn port 8000">
+      <created>1598791468243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598791468243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added a server onn port 8000" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a server onn port 8000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="571" y="356" key="#Notifications" timestamp="1598790834766">
@@ -63,5 +75,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="651" y="0" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1598788223157" />
+    <state x="662" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598791357626">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="662" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598791357626" />
   </component>
 </project>
